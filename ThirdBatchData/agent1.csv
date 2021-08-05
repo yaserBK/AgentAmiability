@@ -1,5 +1,4 @@
-AgentID,1,Threshold,0.25
-roundCount,playCount,amiability,aCount,cCount,dCount,totalPayoffs
+AgentID,1,Threshold,0.25, roundCount,playCount,amiability,aCount,cCount,dCount,totalPayoffs
 1.0,1.0,0.4432278476153549,0.0,1.0,0.0,-1.0
 2.0,2.0,0.5545822780922839,0.0,2.0,0.0,-2.0
 3.0,3.0,0.6436658224738271,0.0,3.0,0.0,1.0
