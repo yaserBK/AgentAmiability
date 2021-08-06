@@ -1,9 +1,8 @@
 package models;
 
-//although both provide about the same degree of control
 
 /*
- * will act as drivers in this suggested game
+ * will act as players for game
  * will have the following move set: Abstain, Cooperate, Defect
  *
  * in this system the road is "one way"
@@ -14,14 +13,6 @@ package models;
  *
  * A,D,C = 0,1,2
  *
- * I still have no idea how to possibly go about having the agents decide whether or not to abstain.
- *
- *
- *
- * what is left to determine is how an agent will choose to abstain
- *
- *
- * There are two learning rates selected, one is from decision
  *
  * */
 
